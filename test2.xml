@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<team name="Portuguese National Football Team">
+    <player>
+        <name>Cristiano Ronaldo</name>
+        <position>Forward</position>
+        <club>Al Nassr</club>
+        <caps>200</caps>
+        <goals>125</goals>
+    </player>
+    <player>
+        <name>Bruno Fernandes</name>
+        <position>Midfielder</position>
+        <club>Manchester United</club>
+        <caps>60</caps>
+        <goals>15</goals>
+    </player>
+    <player>
+        <name>Rúben Dias</name>
+        <position>Defender</position>
+        <club>Manchester City</club>
+        <caps>55</caps>
+        <goals>3</goals>
+    </player>
+	<player>
+        <name>Eder</name>
+        <position>Defender</position>
+        <club>Lion</club>
+        <caps>23</caps>
+        <goals>1</goals>
+    </player>
+</team>
